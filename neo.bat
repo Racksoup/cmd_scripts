@@ -1,0 +1,1 @@
+cd /d C:\Users\propa\AppData\Local\nvim
