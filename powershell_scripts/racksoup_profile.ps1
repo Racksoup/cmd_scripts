@@ -1,3 +1,51 @@
 function neo {
 	Set-Location "C:\Users\propa\AppData\Local\nvim"
 }
+
+function commands {
+	Set-Location "C:\Users\propa\AppData\Local\cmd_scripts"
+}
+
+function work {
+	Set-Location "C:\Users\propa\Documents\Work"
+}
+
+function dev {
+	Set-Location "C:\Users\propa\Documents\Work\Dev"
+}
+
+function gamedev {
+	Set-Location "C:\Users\propa\Documents\Work\Dev\GameDev"
+}
+
+function mcaddons {
+	Set-Location "C:\Users\propa\Documents\Work\Dev\GameDev\MCAddons"
+}
+
+function wowaddons {
+	Set-Location "C:\Users\propa\Documents\Work\Dev\GameDev\WowAddons"
+}
+
+function unreal {
+	Set-Location "C:\Users\propa\Documents\Work\Dev\GameDev\Unreal"
+}
+
+function electronics {
+	Set-Location "C:\Users\propa\Documents\Work\Dev\Electronics"
+}
+
+function software {
+	Set-Location "C:\Users\propa\Documents\Work\Dev\Software"
+}
+
+function webdev {
+	Set-Location "C:\Users\propa\Documents\Work\Dev\WebDev"
+}
+
+function projects {
+	Set-Location "C:\Users\propa\Documents\Work\Dev\WebDev\Projects"
+}
+
+function wow {
+	Set-Location "D:\Main\World of Warcraft\_retail_\Interface\AddOns"
+}
