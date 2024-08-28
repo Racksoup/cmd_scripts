@@ -46,6 +46,10 @@ function projects {
 	Set-Location "C:\Users\propa\Documents\Work\Dev\WebDev\Projects"
 }
 
-function wow {
+function wowr {
 	Set-Location "D:\Main\World of Warcraft\_retail_\Interface\AddOns"
+}
+
+function wowc {
+	Set-Location "C:\World of Warcraft\_classic_era_\Interface\AddOns"
 }
