@@ -53,3 +53,6 @@ function wowr {
 function wowc {
 	Set-Location "C:\World of Warcraft\_classic_era_\Interface\AddOns"
 }
+function notes {
+	Set-Location "C:\Users\propa\Documents\Work\Writing\Notes"
+}
