@@ -59,9 +59,9 @@ function notes {
 }
 
 function comp1005 {
-	Set-Location "C:\Users\wind\Documents\Work\school\carleton\semester 1\Comp1005"
+	Set-Location "C:\Users\wind\Documents\Work\school\carleton\semester_1\Comp1005"
 }
 
 function coms1001 {
-	Set-Location "C:\Users\wind\Documents\Work\school\carleton\semester 1\Coms1001"
+	Set-Location "C:\Users\wind\Documents\Work\school\carleton\semester_1\Coms1001"
 }
