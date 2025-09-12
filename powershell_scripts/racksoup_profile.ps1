@@ -1,49 +1,49 @@
 function neo {
-	Set-Location "C:\Users\propa\AppData\Local\nvim"
+	Set-Location "C:\Users\wind\AppData\Local\nvim"
 }
 
 function commands {
-	Set-Location "C:\Users\propa\AppData\Local\cmd_scripts"
+	Set-Location "C:\Users\wind\AppData\Local\cmd_scripts"
 }
 
 function work {
-	Set-Location "C:\Users\propa\Documents\Work"
+	Set-Location "C:\Users\wind\Documents\Work"
 }
 
 function dev {
-	Set-Location "C:\Users\propa\Documents\Work\Dev"
+	Set-Location "C:\Users\wind\Documents\Work\Dev"
 }
 
 function gamedev {
-	Set-Location "C:\Users\propa\Documents\Work\Dev\GameDev"
+	Set-Location "C:\Users\wind\Documents\Work\Dev\GameDev"
 }
 
 function mcaddons {
-	Set-Location "C:\Users\propa\Documents\Work\Dev\GameDev\MCAddons"
+	Set-Location "C:\Users\wind\Documents\Work\Dev\GameDev\MCAddons"
 }
 
 function wowaddons {
-	Set-Location "C:\Users\propa\Documents\Work\Dev\GameDev\WowAddons"
+	Set-Location "C:\Users\wind\Documents\Work\Dev\GameDev\WowAddons"
 }
 
 function unreal {
-	Set-Location "C:\Users\propa\Documents\Work\Dev\GameDev\Unreal"
+	Set-Location "C:\Users\wind\Documents\Work\Dev\GameDev\Unreal"
 }
 
 function electronics {
-	Set-Location "C:\Users\propa\Documents\Work\Dev\Electronics"
+	Set-Location "C:\Users\wind\Documents\Work\Dev\Electronics"
 }
 
 function software {
-	Set-Location "C:\Users\propa\Documents\Work\Dev\Software"
+	Set-Location "C:\Users\wind\Documents\Work\Dev\Software"
 }
 
 function webdev {
-	Set-Location "C:\Users\propa\Documents\Work\Dev\WebDev"
+	Set-Location "C:\Users\wind\Documents\Work\Dev\WebDev"
 }
 
 function projects {
-	Set-Location "C:\Users\propa\Documents\Work\Dev\WebDev\Projects"
+	Set-Location "C:\Users\wind\Documents\Work\Dev\WebDev\Projects"
 }
 
 function wowr {
@@ -55,13 +55,13 @@ function wowc {
 }
 
 function notes {
-	Set-Location "C:\Users\propa\Documents\Work\Writing\Notes"
+	Set-Location "C:\Users\wind\Documents\Work\Writing\Notes"
 }
 
 function comp1005 {
-	Set-Location "C:\Users\propa\Documents\Work\school\carleton\semester 1\Comp1005"
+	Set-Location "C:\Users\wind\Documents\Work\school\carleton\semester 1\Comp1005"
 }
 
 function coms1001 {
-	Set-Location "C:\Users\propa\Documents\Work\school\carleton\semester 1\Coms1001"
+	Set-Location "C:\Users\wind\Documents\Work\school\carleton\semester 1\Coms1001"
 }

@@ -1,1 +1,1 @@
-cd /d C:\Users\propa\AppData\Local\nvim
+cd /d C:\Users\wind\AppData\Local\nvim

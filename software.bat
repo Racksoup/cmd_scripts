@@ -1,2 +1,2 @@
 
-cd /d C:\Users\propa\Documents\Work\Dev\Software
+cd /d C:\Users\wind\Documents\Work\Dev\Software
