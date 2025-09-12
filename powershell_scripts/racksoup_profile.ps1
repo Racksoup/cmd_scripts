@@ -53,6 +53,15 @@ function wowr {
 function wowc {
 	Set-Location "C:\World of Warcraft\_classic_era_\Interface\AddOns"
 }
+
 function notes {
 	Set-Location "C:\Users\propa\Documents\Work\Writing\Notes"
+}
+
+function comp1005 {
+	Set-Location "C:\Users\propa\Documents\Work\school\carleton\semester 1\Comp1005"
+}
+
+function coms1001 {
+	Set-Location "C:\Users\propa\Documents\Work\school\carleton\semester 1\Coms1001"
 }
