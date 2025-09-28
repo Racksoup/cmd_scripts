@@ -65,3 +65,6 @@ function comp1005 {
 function coms1001 {
 	Set-Location "C:\Users\wind\Documents\Work\school\carleton\semester_1\Coms1001"
 }
+function school {
+	Set-Location "C:\Users\wind\Documents\Work\school"
+}
