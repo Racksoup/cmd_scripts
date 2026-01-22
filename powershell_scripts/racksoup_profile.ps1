@@ -69,3 +69,7 @@ function coms1001 {
 function school {
 	Set-Location "C:\Users\propa\Documents\Work\school"
 }
+
+function sem2 {
+	Set-Location "C:\Users\propa\Documents\Work\school\carleton\semester_2"
+}
