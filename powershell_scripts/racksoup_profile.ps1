@@ -47,7 +47,7 @@ function projects {
 }
 
 function wowr {
-	Set-Location "D:\Main\World of Warcraft\_retail_\Interface\AddOns"
+	Set-Location "E:\Games\WoW\Real\World of Warcraft\_retail_\Interface\AddOns"
 }
 
 function wowc {

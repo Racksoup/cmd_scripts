@@ -1,2 +1,2 @@
 
-cd /d D:\Main\"World of Warcraft"\_retail_\Interface\AddOns"
+cd /d E:\Games\WoW\Real\World of Warcraft\_retail_\Interface\AddOns"
