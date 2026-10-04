@@ -1,1 +1,1 @@
-cd /d C:\Users\propa\AppData\Local\cmd_scripts
+cd /d C:\Users\%USERNAME%\AppData\Local\cmd_scripts

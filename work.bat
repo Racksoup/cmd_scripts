@@ -1,1 +1,1 @@
-cd /d C:\Users\propa\Documents\Work
+cd /d C:\Users\%USERNAME%\Documents\Work

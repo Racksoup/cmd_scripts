@@ -1,1 +1,1 @@
-cd /d C:\Users\propa\Documents\Work\school\carleton\semester_1\Coms1001"
+cd /d C:\Users\%USERNAME%\Documents\Work\school\carleton\semester_1\Coms1001"

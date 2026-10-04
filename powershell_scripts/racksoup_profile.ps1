@@ -1,49 +1,49 @@
 function neo {
-	Set-Location "C:\Users\propa\AppData\Local\nvim"
+	Set-Location "$env:USERPROFILE\AppData\Local\nvim"
 }
 
 function commands {
-	Set-Location "C:\Users\propa\AppData\Local\cmd_scripts"
+	Set-Location "$env:USERPROFILE\AppData\Local\cmd_scripts"
 }
 
 function work {
-	Set-Location "C:\Users\propa\Documents\Work"
+	Set-Location "$env:USERPROFILE\Documents\Work"
 }
 
 function dev {
-	Set-Location "C:\Users\propa\Documents\Work\Dev"
+	Set-Location "$env:USERPROFILE\Documents\Work\Dev"
 }
 
 function gamedev {
-	Set-Location "C:\Users\propa\Documents\Work\Dev\GameDev"
+	Set-Location "$env:USERPROFILE\Documents\Work\Dev\GameDev"
 }
 
 function mcaddons {
-	Set-Location "C:\Users\propa\Documents\Work\Dev\GameDev\MCAddons"
+	Set-Location "$env:USERPROFILE\Documents\Work\Dev\GameDev\MCAddons"
 }
 
 function wowaddons {
-	Set-Location "C:\Users\propa\Documents\Work\Dev\GameDev\WowAddons"
+	Set-Location "$env:USERPROFILE\Documents\Work\Dev\GameDev\WowAddons"
 }
 
 function unreal {
-	Set-Location "C:\Users\propa\Documents\Work\Dev\GameDev\Unreal"
+	Set-Location "$env:USERPROFILE\Documents\Work\Dev\GameDev\Unreal"
 }
 
 function electronics {
-	Set-Location "C:\Users\propa\Documents\Work\Dev\Electronics"
+	Set-Location "$env:USERPROFILE\Documents\Work\Dev\Electronics"
 }
 
 function software {
-	Set-Location "C:\Users\propa\Documents\Work\Dev\Software"
+	Set-Location "$env:USERPROFILE\Documents\Work\Dev\Software"
 }
 
 function webdev {
-	Set-Location "C:\Users\propa\Documents\Work\Dev\WebDev"
+	Set-Location "$env:USERPROFILE\Documents\Work\Dev\WebDev"
 }
 
 function projects {
-	Set-Location "C:\Users\propa\Documents\Work\Dev\WebDev\Projects"
+	Set-Location "$env:USERPROFILE\Documents\Work\Dev\WebDev\Projects"
 }
 
 function wowr {
@@ -55,21 +55,25 @@ function wowc {
 }
 
 function notes {
-	Set-Location "C:\Users\propa\Documents\Work\Writing\Notes"
+	Set-Location "$env:USERPROFILE\Documents\Work\Writing\Notes"
 }
 
 function comp1005 {
-	Set-Location "C:\Users\propa\Documents\Work\school\carleton\semester_1\Comp1005"
+	Set-Location "$env:USERPROFILE\Documents\Work\school\carleton\semester_1\Comp1005"
 }
 
 function coms1001 {
-	Set-Location "C:\Users\propa\Documents\Work\school\carleton\semester_1\Coms1001"
+	Set-Location "$env:USERPROFILE\Documents\Work\school\carleton\semester_1\Coms1001"
 }
 
 function school {
-	Set-Location "C:\Users\propa\Documents\Work\school"
+	Set-Location "$env:USERPROFILE\Documents\Work\school"
 }
 
 function sem2 {
-	Set-Location "C:\Users\propa\Documents\Work\school\carleton\semester_2"
+	Set-Location "$env:USERPROFILE\Documents\Work\school\carleton\semester_2"
+}
+
+function sem3 {
+Set-Location "$env:USERPROFILE\Documents\Work\school\carleton\semester_3"
 }

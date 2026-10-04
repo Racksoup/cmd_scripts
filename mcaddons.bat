@@ -1,3 +1,1 @@
-
-cd /d C:\Users\propa\Documents\Work\Dev\GameDev\MCAddons
-
+cd /d C:\Users\%USERNAME%\Documents\Work\Dev\GameDev\MCAddons

@@ -1,2 +1,1 @@
-
-cd /d C:\Users\propa\Documents\Work\Writing\Notes
+cd /d C:\Users\%USERNAME%\Documents\Work\Writing\Notes

@@ -1,2 +1,1 @@
-
-cd /d "C:\Users\propa\Documents\Work\School"
+cd /d "C:\Users\%USERNAME%\Documents\Work\School"
