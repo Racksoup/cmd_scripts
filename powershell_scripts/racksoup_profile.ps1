@@ -2,8 +2,14 @@ function neo {
 	Set-Location "$env:USERPROFILE\AppData\Local\nvim"
 }
 
+if ($env:USERNAME -eq "tranq") {
+    $COMMANDS_DIR = "$env:USERPROFILE\scripts\cmd_scripts"
+}
+else {
+    $COMMANDS_DIR = "$env:USERPROFILE\AppData\Local\cmd_scripts"
+}
 function commands {
-	Set-Location "$env:USERPROFILE\AppData\Local\cmd_scripts"
+    Set-Location $COMMANDS_DIR
 }
 
 function work {
